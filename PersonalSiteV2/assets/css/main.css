@@ -2478,6 +2478,13 @@
 				width: 100%;
 			}
 
+    #elvira{
+        height: 200px;
+        width:auto;
+        float:right;
+    }
+
+
 /* List */
 
 	ol {
@@ -3894,5 +3901,7 @@
 			#cta {
 				padding: 2.5em 1em 3em 1em;
 			}
+
+
 
 	}
