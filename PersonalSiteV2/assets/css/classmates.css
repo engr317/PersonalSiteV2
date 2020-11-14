@@ -1,38 +1,22 @@
-﻿.image {
-    border-radius: 6px;
-    border: 0;
-    display: inline-block;
-    position: relative;
-}
-
-
-    .image.fit {
-        display: block;
-        margin: 0,5em,2em,5em;
-        width: 300px;
-    }
-    /*.image.fit img{
-    display:block;
-    width:300px;
-    height:350px;
-    
-    
-}*/
-    .image img {
-        border-radius: 6px;
-    }
-
-.student a {
-    text-align: center;
-    text-transform: uppercase;
-    color: blue;
-}
-
-    .student a:hover {
-        text-decoration: none;
-    }
-
-#main {
+﻿#main {
     border-radius: 10px;
     background-color: white;
 }
+
+
+.card {
+    margin:0,0,0,0;
+    border: 3px solid red;
+    padding:5px;
+    text-align:center;
+
+}
+
+    .card img {
+        border-radius: 10px;        
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:320px;
+        height:320px;
+    }

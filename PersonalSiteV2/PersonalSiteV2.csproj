@@ -104,12 +104,9 @@
     <Content Include="images\dave-goudreau-n_oeImTH0qQ-unsplash.jpg" />
     <Content Include="images\favicon.ico" />
     <Content Include="images\favicon.png" />
-    <Content Include="images\john-shen-gQHjmx5H8o8-unsplash.jpg" />
-    <Content Include="images\mariah-hewines-aY7VTXi9fvI-unsplash.jpg" />
-    <Content Include="images\raphael-nast-l29f4DAO9B8-unsplash %281%29.jpg" />
-    <Content Include="images\raphael-nast-l29f4DAO9B8-unsplash.jpg" />
-    <Content Include="images\ronny-rondon-3YZVadaZRiQ-unsplash.jpg" />
     <Content Include="classmates.html" />
+    <Content Include="images\John.jpg" />
+    <Content Include="images\Tessa.jpg" />
     <Content Include="portfolio.html" />
     <Content Include="resume.html" />
     <Content Include="images\banner.jpg" />

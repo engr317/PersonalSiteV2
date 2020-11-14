@@ -78,9 +78,9 @@
 				});
 
 			});
-
+            
 		}
 
-    import "bootswatch/dist/superhero/bootstrap.min.css";
+    
 
 })(jQuery);
