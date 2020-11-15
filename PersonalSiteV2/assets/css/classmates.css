@@ -3,20 +3,27 @@
     background-color: white;
 }
 
-
-.card {
-    margin:0,0,0,0;
-    border: 3px solid red;
-    padding:5px;
-    text-align:center;
-
+.row {
+    padding: 5em;
 }
 
-    .card img {
-        border-radius: 10px;        
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width:320px;
-        height:320px;
-    }
+.card {
+    margin: 0,0,0,0;
+    border: 3px solid red;
+    padding: 5px;
+    text-align: center;
+}
+
+.card-title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.card img {
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 290px;
+    height: 290px;
+}
