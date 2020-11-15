@@ -69,9 +69,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="android-chrome-192x192.png" />
-    <Content Include="android-chrome-512x512.png" />
-    <Content Include="apple-touch-icon.png" />
+    <Content Include="assets\favicon\android-chrome-192x192.png" />
+    <Content Include="assets\favicon\android-chrome-512x512.png" />
+    <Content Include="assets\favicon\apple-touch-icon.png" />
     <Content Include="assets\css\classmates.css" />
     <Content Include="assets\css\contact.css" />
     <Content Include="assets\css\fontawesome-all.min.css" />
@@ -98,9 +98,9 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="favicon-16x16.png" />
-    <Content Include="favicon-32x32.png" />
-    <Content Include="favicon.ico" />
+    <Content Include="assets\favicon\favicon-16x16.png" />
+    <Content Include="assets\favicon\favicon-32x32.png" />
+    <Content Include="assets\favicon\favicon.ico" />
     <Content Include="images\dave-goudreau-n_oeImTH0qQ-unsplash.jpg" />
     <Content Include="images\favicon.ico" />
     <Content Include="images\favicon.png" />
@@ -279,7 +279,7 @@
     <Content Include="Scripts\popper.js.map" />
     <Content Include="Scripts\popper-utils.min.js.map" />
     <Content Include="Scripts\popper-utils.js.map" />
-    <Content Include="site.webmanifest" />
+    <Content Include="assets\favicon\site.webmanifest" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
