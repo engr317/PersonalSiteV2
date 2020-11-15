@@ -27,3 +27,7 @@
     width: 290px;
     height: 290px;
 }
+#footer {
+    background-color: #444444;
+    max-height: 2em;
+}
