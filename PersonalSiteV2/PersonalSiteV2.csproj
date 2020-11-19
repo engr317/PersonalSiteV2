@@ -69,8 +69,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\css\portfolio.css" />
     <Content Include="assets\css\resume.css" />
-    <Content Include="portfolio.html" />
     <Content Include="images\anastasia-myer-under-construction1.jpg" />
     <Content Include="resume.html" />
     <Content Include="images\favicon\android-chrome-192x192.png" />
@@ -111,7 +111,7 @@
     <Content Include="classmates.html" />
     <Content Include="images\John.jpg" />
     <Content Include="images\Tessa.jpg" />
-    <Content Include="portfolio-old.html" />
+    <Content Include="portfolio.html" />
     <Content Include="images\banner.jpg" />
     <Content Include="images\pic01.jpg" />
     <Content Include="images\pic02.jpg" />
