@@ -72,6 +72,7 @@
     <Content Include="assets\css\portfolio.css" />
     <Content Include="assets\css\resume.css" />
     <Content Include="images\anastasia-myer-under-construction1.jpg" />
+    <Content Include="images\FSEducation.jpg" />
     <Content Include="resume.html" />
     <Content Include="images\favicon\android-chrome-192x192.png" />
     <Content Include="images\favicon\android-chrome-512x512.png" />
