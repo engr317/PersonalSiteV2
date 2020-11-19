@@ -69,6 +69,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\css\images\original.png" />
     <Content Include="assets\css\portfolio.css" />
     <Content Include="assets\css\resume.css" />
     <Content Include="images\anastasia-myer-under-construction1.jpg" />
